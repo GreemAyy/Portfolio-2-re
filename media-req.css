@@ -1,0 +1,90 @@
+@media (max-width:1100px){
+    .mx-790{
+        max-width: 790px;
+    }
+    .grid{
+        font-size: 25px;
+        grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,250px);
+    max-width: 790px;
+    }
+    .slider-block{
+        max-width: 790px;
+    }
+    .new-goods{
+        max-width: 790px;
+    }
+    .best-goods{
+        max-width: 790px;
+    }
+    .b-1-mic{
+        background-position: -90px 0;
+    }
+    .ad-block{
+        width: 790px;
+    }
+    .advise-block{
+        width: 700px;
+    }
+    .button-block{
+        width: 790px;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+    .delivery-ad{
+        max-width: 790px;
+        background-position: 0 0 ;
+        
+    }
+    .delivery-ad h1{
+        font-size: 25px;
+    }
+    .delivery-ad h2{
+        font-size: 25px;
+    }
+    .advise-goods{
+        max-width: 790px;
+    }
+}
+
+@media (max-width:780px){
+    .mx-550{
+        max-width: 550px;
+    }
+
+    .home-block{
+        flex-direction: column;
+    }
+    .log{
+        margin-top: 15px;
+    }
+    .logo{
+        margin-bottom: 15px;
+    }
+    .nav-block{
+        font-size: 15px;
+    }
+    .header-down{
+        width: 100%;
+    }
+    .grid{
+   
+    max-width: 550px;
+    }
+    .slider-block{
+        max-width: 550px;
+    }
+    .new-goods{
+        max-width: 550px;
+    }
+    .best-goods{
+        max-width: 550px;
+    }
+    .b-1-mic{
+        background-position: -90px 0;
+    }
+    .ad-block{
+        max-width: 550px;
+    }
+}
+

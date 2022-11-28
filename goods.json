@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Apple AirPods (3th gen)",
+    "price": 16990,
+    "old-price":false,
+    "type": "naushniki",
+    "popular": true,
+    "rate": 4.93,
+    "img":"apple_airpods_3_0.jpg"
+  }
+  ,
+  {
+    "name": "1MORE Neo Black",
+    "price": 2290,
+    "old-price":false,
+    "type": "naushniki",
+    "popular": true,
+    "img":"1more_neo_black.webp",
+    "rate": 0
+  }
+  ,
+  {
+    "name": "Astell&Kern Acro BE100 White",
+    "price": 39990,
+    "old-price":46990,
+    "type": "akustika",
+    "popular": true,
+    "img":"astellkern_acro_be100_white.webp",
+
+    "rate": 4.92
+  },
+  {
+    "name": "PINK FLOYD The dark side OF THE MOON",
+    "price": 3690,
+    "old-price":false,
+    "type": "vunil",
+    "popular": true,
+    "img":"e5480_7._Pink_Floyd_The_Dark_Side_of_The_Moon_2_26PFY0107_B.webp",
+
+    "rate": 4.9
+  },
+  {
+    "name": "Razer Kraken Multi-Platform Wired Green",
+    "price": 8290,
+    "old-price":false,
+    "type": "garnitura",
+    "popular": true,
+    "img":"razer_kraken_multi_platform_wired_green.webp",
+    "rate": 4.4
+  },
+  {
+    "name": "Samsung Galaxy Buds2 White",
+    "price": 7990,
+    "old-price":9990,
+    "type": "naushniki",
+    "popular": true,
+    "img":"samsung_galaxy_buds2_51.webp",
+    "rate": 5
+  },
+  {
+    "name": "Beyerdynamic DT 770 PRO / 250 ohm",
+    "price": 17990,
+    "old-price":24900,
+    "type": "naushniki",
+    "popular": true,
+    "img":"DT770PRO_80_3c_01.webp",
+    "rate": 4.99
+  },
+  {
+    "name": "AUDIO-TECHNICA AT2020 USB+",
+    "price": 14990,
+    "old-price":17190,
+    "type": "mic",
+    "popular": true,
+    "img":"at2020usbplus_b_main.webp",
+    "rate": 4.98
+  }
+]
